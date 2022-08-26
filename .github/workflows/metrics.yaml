@@ -35,10 +35,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
-          plugin_people_identicons: yes
           plugin_people_types: stargazers, contributors, watchers, followers, following
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
