@@ -1,17 +1,18 @@
 ### Hi there 👋
 
+I'm Yuki Yamazaki, or kamiazya. I'm a data engineer building CDP(Customer Data Platform). I use Python and BigQuery at work, and TypeScript and Graphviz for my hobby OSS activities.
+
+- 😄 Pronouns: He/Him
+- 🌱 I'm currently learning about leadership and project management.
+- 🤔 I’m looking for help with basic of computer science.
 - 🔭 I’m currently working on [iRidge](https://github.com/iridgeinc)
+- 👯 I’m looking to collaborate on [ts-graphviz](https://github.com/ts-graphviz).
+- ⚡ Fun fact: Recruiters often recruit me as a front-end engineer. **I am a data engineer**.
+- 💬 Ask me about TypeScript/Python/Graphviz/BigQuery.
 - 📫 How to reach me: DM on [Twitter](https://twitter.com/kamiazya)
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 😄 Pronouns: ...
--->
-
+> **Note** I have worked as a full stack engineer in my previous job, so I have some front-end knowledge.
+> However, I do not currently desire a career as a front-end engineer, so recruiters should understand this.
 
 #### Activities
 
