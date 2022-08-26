@@ -17,9 +17,7 @@
 
 ##### GitHub
 
-<img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
-
-![kamiazya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiazya&count_private=true&show_icons=true)
+![Metrics](./github-metrics.svg)
 
 ##### Zenn
 
