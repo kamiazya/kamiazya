@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Yuki Yamazaki, or kamiazya. I'm a data engineer building CDP(Customer Data Platform). I use Python and BigQuery at work, and TypeScript and Graphviz for my hobby OSS activities.
+[English](./README.md)|[日本語](./README_ja.md)
+
+I'm Yuki Yamazaki, or kamiazya. I am the leader of a team of data engineers building a CDP (**Customer **D**ata **P**latform). I use Python and BigQuery at work, and TypeScript and Graphviz for my hobby OSS activities.
 
 - 😄 Pronouns: He/Him
 - 🌱 I'm currently learning about leadership and project management.
