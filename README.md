@@ -2,7 +2,7 @@
 
 [English](./README.md)|[日本語](./README_ja.md)
 
-I'm Yuki Yamazaki, or kamiazya. I am the leader of a team of data engineers building a CDP (**Customer **D**ata **P**latform). I use Python and BigQuery at work, and TypeScript and Graphviz for my hobby OSS activities.
+I'm Yuki Yamazaki, or kamiazya. I am the leader of a team of data engineers building a CDP (**C**ustomer **D**ata **P**latform). I use Python and BigQuery at work, and TypeScript and Graphviz for my hobby OSS activities.
 
 - 😄 Pronouns: He/Him
 - 🌱 I'm currently learning about leadership and project management.
