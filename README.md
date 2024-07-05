@@ -8,8 +8,7 @@ Hi 👋 I'm **Yuki Yamazaki**(a.k.a. kamiazya).
 [![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-kamiazya?style=flat&logo=speakerdeck&logoColor=fff&labelColor=009287&color=009287)](https://speakerdeck.com/kamiazya/)
 [![X](https://img.shields.io/badge/X-kamiazya?style=flat&logo=x&logoColor=fff&labelColor=000&color=000)](https://x.com/kamiazya)
 [![npm](https://img.shields.io/badge/npm-kamiazya?style=flat&logo=npm&logoColor=fff&labelColor=CB3837&color=CB3837)](https://www.npmjs.com/~kamiazya)
-[![Keybase](https://img.shields.io/badge/keybase-kamiazya?style=flat&logo=keybase&logoColor=fff&labelColor=33A0FF&color=33A0FF)
-](https://keybase.io/kamiazya)
+[![Keybase](https://img.shields.io/badge/keybase-kamiazya?style=flat&logo=keybase&logoColor=fff&labelColor=33A0FF&color=33A0FF)](https://keybase.io/kamiazya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamiazya?style=flat&logo=linkedin&logoColor=fff&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/kamiazya/)
 
 <details>
