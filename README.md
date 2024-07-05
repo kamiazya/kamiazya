@@ -120,7 +120,7 @@ A set of tools for managing and manipulating CSV files on the web. It relies sol
 
 <div align="center">
 
-![](https://avatars.githubusercontent.com/u/63964583?s=100)
+[![](https://avatars.githubusercontent.com/u/63964583?s=100)](https://github.com/ts-graphviz)
 
 [![GitHub Sponsor](https://img.shields.io/badge/-GitHub%20Sponsor-fff?logo=GitHub%20Sponsors&style=flat)](https://github.com/sponsors/ts-graphviz)
 [![OpenCollective](https://img.shields.io/badge/-OpenCollective-7FADF2?logoColor=fff&logo=opencollective&style=flat)](https://opencollective.com/ts-graphviz)
